@@ -2,7 +2,7 @@
 My name is Thomas, and am a professional Machine Laening Engineer interented in all things Python, AI and Machine Learning!
 
 - 🔭 I’m currently working on building intelligent machine learning systems that solve real-world problems, including predictive analytics, computer vision, and AI-driven decision platforms.
-- 🌱 I recently built a Medical Assitant Chat Bot to help diagonize diseases and recommendations, and also a Food Delivery Bot to help user easily order for and delivery.
+- 🌱 I recently built a Medical Assistant Chat Bot to help diagonize diseases and recommendations, and also a Food Delivery Bot to help user easily order for and delivery.
 - 👯 I’m looking to collaborate on research-driven AI projects, open-source ML frameworks, and end-to-end intelligent automation systems.
 - 💬 Ask me about data science, deep learning, model deployment, and building production-ready AI applications.
 - 📫 How to reach me: Here(www.linkedin.com/in/idowu-thomas-56819433b)
