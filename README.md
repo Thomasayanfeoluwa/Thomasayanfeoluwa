@@ -24,6 +24,7 @@ I believe great AI doesn’t just automate—it **amplifies** human potential & 
 ---
 
 ### 🔗 Live Demos  
+[![Live Demo: CareAssist AI](https://img.shields.io/badge/Live%20Demo-CareAssist%20AI-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white)](https://careassist-ai-2y6vf6pu5gnvm4fgsz2y5v.streamlit.app/)                                                                                                                                                     
 [![Live Demo: Interview Q&A Generator](https://img.shields.io/badge/Live%20Demo-Interview%20Q%26A%20Generator-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white)](https://interview-question-and-answer-generator-j4mpehzjpa85pqhkmdbvpg.streamlit.app/)  
 [![Live Demo: Customer Churn Prediction](https://img.shields.io/badge/Live%20Demo-Customer%20Churn%20Prediction-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white)](https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/)  
 [![Live Demo: Sentiment Prediction App](https://img.shields.io/badge/Live%20Demo-Sentiment%20Prediction%20App-4CAF50?style=for-the-badge&logo=streamlit&logoColor=white)](https://sentiment-prediction-3vyk6hn28g4a89dmthmur6.streamlit.app/)  
