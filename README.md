@@ -25,7 +25,7 @@ I believe great AI doesn’t just automate—it **amplifies** human potential & 
 
 ### 🔗 Live Demos  
 
-[![Live Demo: DishDelivery OrderBot](https://img.shields.io/badge/Live%20Demo-DishDelivery%20OrderBot-1E88E5?style=for-the-badge&logo=streamlit&logoColor=white)](https://dishorder-deliverybot-de2jdgxfjjvy5rkeevgz23.streamlit.app/)
+[![Live Demo: DishOrder DeliveryBot](https://img.shields.io/badge/Live%20Demo-DishOrder%20DeliveryBot-1E88E5?style=for-the-badge&logo=streamlit&logoColor=white)](https://dishorder-deliverybot-de2jdgxfjjvy5rkeevgz23.streamlit.app/)
 [![Live Demo: CareAssist AI](https://img.shields.io/badge/Live%20Demo-CareAssist%20AI-8E24AA?style=for-the-badge&logo=streamlit&logoColor=white)](https://careassist-ai-2y6vf6pu5gnvm4fgsz2y5v.streamlit.app/)
 [![Live Demo: Interview Q&A Generator](https://img.shields.io/badge/Live%20Demo-Interview%20Q%26A%20Generator-00897B?style=for-the-badge&logo=streamlit&logoColor=white)](https://interview-question-and-answer-generator-j4mpehzjpa85pqhkmdbvpg.streamlit.app/)
 [![Live Demo: Customer Churn Prediction](https://img.shields.io/badge/Live%20Demo-Customer%20Churn%20Prediction-F57C00?style=for-the-badge&logo=streamlit&logoColor=white)](https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/)
