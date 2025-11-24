@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Thomas**  
 🔬 AI/ML Engineer & Data Scientist | Generative & Predictive AI | NLP · Deep Learning · Scalable Cloud Deployment 
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedln&logoColor=white)](https://www.linkedin.com/in/idowu-thomas-56819433b)  
+[![Linkedln](https://img.shields.io/badge/Linkedln-0A66C2?style=for-the-badge&logo=linkedln&logoColor=white)](https://www.linkedin.com/in/idowu-thomas-56819433b)  
 [![Email](https://img.shields.io/badge/Email-ayanfeoluwadegoke@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanfeoluwadegoke@gmail.com)  
 
 ---
