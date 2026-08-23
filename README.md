@@ -201,7 +201,7 @@ Monitoring, Observability & Continuous Improvement
 ## 🔬 Areas of Interest
 
 - **Generative AI & Agents** – LLMs, RAG (LlamaIndex), Agentic Orchestration (LangChain/LangGraph), MCP, and AI Automation  <!-- UPDATED: Added the new tools here -->
-- **Machine Learning** – Predictive Modeling, Recommendation Systems, Ranking, Classification
+- **Machine Learning** – Predictive Modeling, Recommendation Systems, Ranking, Classification, Anomaly Detection, Computer Vision, Time Series Forecasting, Clustering, and Dimensionality Reduction
 - **ML Engineering** – Model Serving, APIs, Docker, Cloud, MLOps, CI/CD, Observability (LangSmith)  <!-- UPDATED: Mentioned LangSmith explicitly -->
 - **Data** – Data Analysis, Feature Engineering, Statistical Modeling, Decision Intelligence
 
