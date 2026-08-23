@@ -314,13 +314,16 @@ Model Serving · APIs · Docker · Cloud Deployment · MLOps · Experiment Track
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasayanfeoluwa&layout=donut&langs_count=8&hide_border=true&count_private=false&theme=github_dark" height="180" alt="Thomas's Most Used Languages" />
 </p>
 
-### 🔥 Contribution Streak
-
-> **Note:** The streak stats service is currently experiencing issues. If the image below doesn't load, it's a known problem with the service — not your README.[reference:3]
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="495" alt="Thomas's GitHub Contribution Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true"
+    alt="Thomas's GitHub Contribution Streak"
+  />
 </p>
+
+---
 
 ### 📊 Contribution Activity
 
