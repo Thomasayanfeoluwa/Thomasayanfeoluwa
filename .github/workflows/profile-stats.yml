@@ -1,0 +1,51 @@
+name: Update Profile Statistics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/profile-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-profile-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Statistics
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=github_dark
+          path: profile/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Most Used Languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&langs_count=8&hide_border=true&theme=github_dark
+          path: profile/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Contribution Streak
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&disable_animations=true
+          path: profile/contribution-streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated profile cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update profile statistics" || exit 0
+          git push
