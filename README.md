@@ -232,11 +232,11 @@ A machine learning application designed to predict customer churn and support da
 
 ---
 
-# 🏗️ Machine Learning Engineering
+## 🏗️ Machine Learning Engineering
 
 I approach ML projects as **systems, not isolated notebooks**.
 
-```text
+```
                          ┌─────────────────────┐
                          │       Raw Data      │
                          └──────────┬──────────┘
@@ -275,7 +275,7 @@ I approach ML projects as **systems, not isolated notebooks**.
                          │ Monitoring &        │
                          │ Continuous Improve. │
                          └─────────────────────┘
-
+```
 
 I am particularly interested in engineering systems that are:
 
@@ -315,6 +315,8 @@ Model Serving · APIs · Docker · Cloud Deployment · MLOps · Experiment Track
 </p>
 
 ### 🔥 Contribution Streak
+
+> **Note:** The streak stats service is currently experiencing issues. If the image below doesn't load, it's a known problem with the service — not your README.[reference:3]
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="495" alt="Thomas's GitHub Contribution Streak" />
