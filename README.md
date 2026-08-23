@@ -67,7 +67,12 @@ My focus is turning **data, models, and research ideas into practical AI systems
   <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP%20Servers-005F9E?style=for-the-badge&logoColor=white" alt="MCP Servers"/></a>
 </p>
 
-> **MCP Stack:** Client SDKs · Filesystem, SQL, GitHub & Google Drive Servers
+<p align="left">
+  <img src="https://img.shields.io/badge/Filesystem-005F9E?style=for-the-badge&logoColor=white" alt="Filesystem"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"/>
+</p>
 <!-- ===== END OF NEW SECTION ===== -->
 
 ### 📊 Data & Analytics
