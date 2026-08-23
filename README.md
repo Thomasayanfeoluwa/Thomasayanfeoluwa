@@ -1,10 +1,9 @@
-# 👋 Hi, I'm **Thomas**
+# 👋 Hi, I'm **Thomas Idowu**
 
-### AI/ML Engineer · Data Scientist · Applied AI
+### AI/ML Engineer · Applied AI · Machine Learning Systems
 
-I build **production-ready intelligent systems** that solve real-world problems across **Generative AI, Predictive Analytics, NLP, Deep Learning, Recommendation Systems, and Machine Learning Engineering**.
-
-My work focuses on turning **data, models, and research ideas into practical AI applications** that can be developed, evaluated, deployed, and continuously improved.
+I design and build **production-oriented intelligent systems** across Generative AI, Machine Learning, NLP, Recommendation Systems, Predictive Analytics, and ML Engineering.  
+My focus is turning **data, models, and research ideas into practical AI systems** that can be developed, evaluated, deployed, and continuously improved.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/idowu-thomas-56819433b">
@@ -19,18 +18,12 @@ My work focuses on turning **data, models, and research ideas into practical AI 
 
 ## 🚀 What I Build
 
-I design and develop intelligent systems across:
-
 - 🤖 **Generative AI & LLM Applications**
-- 🧠 **Deep Learning & Neural Networks**
-- 📊 **Predictive Analytics & Machine Learning**
-- 🔎 **Natural Language Processing**
+- 🧠 **Machine Learning & Deep Learning Systems**
 - 🎯 **Recommendation & Ranking Systems**
-- ⚙️ **AI-Powered Automation**
-- ☁️ **ML Deployment & Cloud Engineering**
-- 📈 **Data Science & Decision Intelligence**
-
-My goal is not simply to train models, but to engineer **complete AI systems** — from data preparation and experimentation through evaluation, deployment, and real-world usage.
+- 📊 **Predictive Analytics & Decision Intelligence**
+- 🔎 **NLP & Intelligent Automation**
+- ☁️ **ML Deployment & MLOps**
 
 ---
 
@@ -39,94 +32,52 @@ My goal is not simply to train models, but to engineer **complete AI systems** �
 ### 💻 Languages
 
 <p align="left">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  </a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
 </p>
 
 ### 🤖 Machine Learning & AI
 
 <p align="left">
-  <a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  </a>
-  <a href="https://huggingface.co/">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  </a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 </p>
 
 ### 🧠 AI & NLP
 
 <p align="left">
-  <a href="https://openai.com/">
-    <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  </a>
-  <a href="https://openai.com/">
-    <img src="https://img.shields.io/badge/LLMs-5A29E4?style=for-the-badge&logoColor=white" alt="Large Language Models"/>
-  </a>
-  <a href="https://huggingface.co/">
-    <img src="https://img.shields.io/badge/NLP-0F9D58?style=for-the-badge&logoColor=white" alt="Natural Language Processing"/>
-  </a>
-  <a href="https://huggingface.co/docs/transformers/index">
-    <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logoColor=black" alt="Transformers"/>
-  </a>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/></a>
+  <a href="https://openai.com/"><img src="https://img.shields.io/badge/LLMs-5A29E4?style=for-the-badge&logoColor=white" alt="Large Language Models"/></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/NLP-0F9D58?style=for-the-badge&logoColor=white" alt="Natural Language Processing"/></a>
+  <a href="https://huggingface.co/docs/transformers/index"><img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logoColor=black" alt="Transformers"/></a>
 </p>
 
 ### 📊 Data & Analytics
 
 <p align="left">
-  <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
 
 ### ⚙️ Engineering & Deployment
 
 <p align="left">
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  </a>
-  <a href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 </p>
 
 ### ☁️ Cloud & MLOps
 
 <p align="left">
-  <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  </a>
-  <a href="https://mlflow.org/">
-    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  </a>
-  <a href="https://github.com/features/actions">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  </a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
+  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
 </p>
 
 ---
@@ -135,25 +86,23 @@ My goal is not simply to train models, but to engineer **complete AI systems** �
 
 ### 🎬 TrailerTV — Intelligent Movie Recommendation System
 
-A content-based movie recommendation platform designed to help users discover relevant movies using movie metadata and content similarity.
+A content-based movie recommendation platform built to help users discover relevant movies using metadata and content similarity.
 
-**What it demonstrates**  
-- 🎯 Content-based recommendation  
-- 🔎 Natural language processing  
-- 🧩 Feature engineering  
-- 📐 Similarity-based ranking  
-- 🧹 Data preprocessing  
-- 🤖 Machine learning  
-- 🌐 End-to-end application deployment  
+**What it demonstrates**
 
-**Core Technologies:** Python · Pandas · Scikit-Learn · NLP · Machine Learning
+- 🎯 Content-based recommendation with NLP & feature engineering
+- 📐 Similarity-based ranking and systematic model evaluation
+- ⚙️ **CI/CD pipelines, observability logging, and scalable cloud deployment**
+- 🌐 End-to-end application deployment
+
+**Core Technologies:** Python · Pandas · Scikit-Learn · NLP
 
 <p>
   <a href="https://movies-recommender-system-kxlg.onrender.com/home">
-    <img src="https://img.shields.io/badge/Live%20Demo-1E88E5?style=for-the-badge&logo=imdb&logoColor=white" alt="TrailerTV Live Demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/Thomasayanfeoluwa/Movie-Cotent-Based-Recommender-System">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TrailerTV Source Code"/>
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
 </p>
 
@@ -161,75 +110,23 @@ A content-based movie recommendation platform designed to help users discover re
 
 ### 🍔 AI Food Ordering & Delivery Assistant
 
-An AI-powered conversational application designed to simplify food ordering and support an intelligent ordering workflow.
+A conversational AI application designed to simplify food ordering through intelligent workflow automation.
 
-**What it demonstrates**  
-- 💬 Conversational AI  
-- 🤖 Generative AI  
-- 🗣️ Natural language interaction  
-- ⚙️ Intelligent workflow automation  
-- 🧠 AI-assisted decision making  
-- 🌐 Application deployment  
+**What it demonstrates**
+
+- 💬 Conversational AI & natural language interaction
+- 🧠 AI-assisted decision making and prompt-driven workflows
+- ⚙️ **End-to-end CI/CD, model monitoring, and observability for production**
+- 🌐 Scalable cloud deployment with logging
 
 **Core Technologies:** Python · Generative AI · NLP · Streamlit
 
 <p>
   <a href="https://dishorder-deliverybot-de2jdgxfjjvy5rkeevgz23.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-1E88E5?style=for-the-badge&logo=streamlit&logoColor=white" alt="AI Food Ordering Live Demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-EA580C?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/Thomasayanfeoluwa/AI-Food-Ordering-System">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI Food Ordering Source Code"/>
-  </a>
-</p>
-
----
-
-### 🩺 HealthAssistant AI
-
-An AI-powered health assistance application designed to provide users with an intelligent conversational interface for health-related information and guidance.
-
-**What it demonstrates**  
-- 🤖 Generative AI application development  
-- 💬 Conversational interaction  
-- 🧠 Natural language processing  
-- 📝 Prompt-driven AI workflows  
-- 🖥️ Interactive application design  
-- 🌐 Cloud application deployment  
-
-**Core Technologies:** Python · Generative AI · NLP · Streamlit
-
-<p>
-  <a href="https://careassist-ai-2y6vf6pu5gnvm4fgsz2y5v.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-8E24AA?style=for-the-badge&logo=streamlit&logoColor=white" alt="HealthAssistant AI Live Demo"/>
-  </a>
-  <a href="https://github.com/Thomasayanfeoluwa/HealthAssistant-AI">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="HealthAssistant AI Source Code"/>
-  </a>
-</p>
-
----
-
-### 🎯 Interview Question & Answer Generator
-
-An AI-powered application designed to generate interview questions and structured answers to support interview preparation.
-
-**What it demonstrates**  
-- 🤖 Generative AI  
-- 📝 Automated content generation  
-- 🧠 Natural language processing  
-- 🎯 Prompt engineering  
-- 🔄 Dynamic question generation  
-- 🖥️ Interactive AI application development  
-- 🌐 Cloud deployment  
-
-**Core Technologies:** Python · Generative AI · NLP · Streamlit
-
-<p>
-  <a href="https://interview-question-and-answer-generator-j4mpehzjpa85pqhkmdbvpg.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-00897B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Interview Q&A Generator Live Demo"/>
-  </a>
-  <a href="https://github.com/Thomasayanfeoluwa/Interview-Question-and-Answer-Generator">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Interview Q&A Generator Source Code"/>
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
 </p>
 
@@ -237,164 +134,79 @@ An AI-powered application designed to generate interview questions and structure
 
 ### 📊 Customer Churn Prediction System
 
-A machine learning application designed to predict customer churn and support data-driven customer retention decisions.
+A machine learning application built to predict customer churn and support data-driven retention strategies.
 
-**What it demonstrates**  
-- 📊 Exploratory data analysis  
-- 🧹 Data preprocessing  
-- 🧩 Feature engineering  
-- 🤖 Predictive machine learning  
-- 🎯 Classification modeling  
-- 📈 Model evaluation  
-- 💡 Data-driven customer intelligence  
-- 🌐 Interactive model deployment  
+**What it demonstrates**
 
-**Core Technologies:** Python · Pandas · Scikit-Learn · Machine Learning · Streamlit
+- 📊 Exploratory data analysis, preprocessing, and feature engineering
+- 🤖 Predictive classification modeling with rigorous validation
+- ⚙️ **Systematic evaluation, model monitoring, and observability dashboards**
+- 🌐 Interactive deployment with scalable infrastructure
+
+**Core Technologies:** Python · Pandas · Scikit-Learn · Streamlit
 
 <p>
   <a href="https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-F57C00?style=for-the-badge&logo=streamlit&logoColor=white" alt="Customer Churn Prediction Live Demo"/>
+    <img src="https://img.shields.io/badge/Live%20Demo-0891B2?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/Thomasayanfeoluwa/Customer-Churn-Prediction-System">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Customer Churn Prediction Source Code"/>
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
   </a>
 </p>
 
 ---
 
-## 🔗 Live AI Applications
+## 🏗️ ML Engineering Approach
 
-| Application | Description | Technology | Demo |
-|---|---|---|---|
-| 🎬 **TrailerTV Recommendation** | Content-based movie recommendation | ML · NLP | <a href="https://movies-recommender-system-kxlg.onrender.com/home"><img src="https://img.shields.io/badge/_Live_Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/></a> |
-| 🍔 **AI Food Ordering** | AI-assisted food ordering workflow | GenAI · NLP | <a href="https://dishorder-deliverybot-de2jdgxfjjvy5rkeevgz23.streamlit.app/"><img src="https://img.shields.io/badge/_Live_Demo-EA580C?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a> |
-| 🩺 **HealthAssistant AI** | Conversational AI health assistant | GenAI · NLP | <a href="https://careassist-ai-2y6vf6pu5gnvm4fgsz2y5v.streamlit.app/"><img src="https://img.shields.io/badge/_Live_Demo-059669?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a> |
-| 🎯 **Interview Q&A Generator** | AI-powered interview preparation | GenAI · NLP | <a href="https://interview-question-and-answer-generator-j4mpehzjpa85pqhkmdbvpg.streamlit.app/"><img src="https://img.shields.io/badge/_Live_Demo-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a> |
-| 📊 **Customer Churn Prediction** | Predictive customer intelligence | ML · Data Science | <a href="https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/"><img src="https://img.shields.io/badge/_Live_Demo-0891B2?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a> |
+I approach machine learning projects as **systems, not isolated notebooks**.
 
-## 🏗️ Machine Learning Engineering
+Data
+↓
+Preprocessing & Feature Engineering
+↓
+Model Development & Experimentation
+↓
+Evaluation & Systematic Validation
+↓
+API / Application Integration
+↓
+Deployment & Cloud Infrastructure
+↓
+Monitoring, Observability & Continuous Improvement
 
-I approach ML projects as **systems, not isolated notebooks**.
-
-```
-                         ┌─────────────────────┐
-                         │       Raw Data      │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Data Processing &   │
-                         │ Feature Engineering │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Model Development   │
-                         │ & Experimentation   │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Evaluation &        │
-                         │ Model Validation    │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ API / Application   │
-                         │ Integration         │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Deployment & Cloud  │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Monitoring &        │
-                         │ Continuous Improve. │
-                         └─────────────────────┘
-```
-
-I am particularly interested in engineering systems that are:
-
-- ♻️ Reproducible
-- 🧪 Testable
-- 🚀 Deployable
-- 📈 Scalable
-- 👁️ Observable
-- 🔧 Maintainable
 
 ---
 
 ## 🔬 Areas of Interest
 
-### Artificial Intelligence  
-Generative AI · Large Language Models · NLP · Intelligent Agents · AI Automation
-
-### Machine Learning  
-Predictive Modeling · Recommendation Systems · Classification · Regression · Feature Engineering
-
-### Deep Learning  
-Neural Networks · Representation Learning · Transfer Learning · Model Optimization
-
-### Data  
-Data Analysis · Data Preparation · Statistical Modeling · Decision Intelligence
-
-### ML Engineering  
-Model Serving · APIs · Docker · Cloud Deployment · MLOps · Experiment Tracking
+- **Generative AI** – LLMs, Intelligent Agents, AI Automation, NLP
+- **Machine Learning** – Predictive Modeling, Recommendation Systems, Ranking, Classification
+- **ML Engineering** – Model Serving, APIs, Docker, Cloud, MLOps, CI/CD, Observability
+- **Data** – Data Analysis, Feature Engineering, Statistical Modeling, Decision Intelligence
 
 ---
-
-
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC"
-    width="495"
-    alt="Thomas's GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="495" alt="Thomas's GitHub Contribution Streak" />
 </p>
-
----
-
-## 🤝 Open to Collaboration
-
-I am interested in collaborating on:
-
-- 🔬 Applied AI & ML research
-- 🤖 Generative AI applications
-- 🧠 Machine learning systems
-- 🌐 Production AI platforms
-- ⚙️ Intelligent automation
-- 📊 Data-driven products
-- 🌍 Open-source AI/ML projects
-- 🚀 Technology solving meaningful real-world problems
-
----
-
-## 💡 Engineering Philosophy
-
-Great AI should do more than automate tasks — it should augment human intelligence, improve decision-making, and create meaningful real-world impact.
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always interested in discussing AI/ML engineering, applied research, intelligent systems, data, and ambitious technology projects.
+I'm always open to discussing AI/ML engineering, applied research, and ambitious projects.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/idowu-thomas-56819433b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ayanfeoluwadegoke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Building intelligent systems. Solving meaningful problems. Engineering for impact.</i>
+  <i>Building intelligent systems. Solving meaningful problems.</i>
 </p>
