@@ -232,47 +232,49 @@ A machine learning application designed to predict customer churn and support da
 
 ---
 
-## 🏗️ Machine Learning Engineering
+# 🏗️ Machine Learning Engineering
 
 I approach ML projects as **systems, not isolated notebooks**.
-┌─────────────────────┐
-│ Raw Data │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Data Processing & │
-│ Feature Engineering │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Model Development │
-│ & Experimentation │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Evaluation & │
-│ Model Validation │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ API / Application │
-│ Integration │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Deployment & Cloud │
-└──────────┬──────────┘
-│
-▼
-┌─────────────────────┐
-│ Monitoring & │
-│ Continuous Improve. │
-└─────────────────────┘
+
+```text
+                         ┌─────────────────────┐
+                         │       Raw Data      │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ Data Processing &   │
+                         │ Feature Engineering │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ Model Development   │
+                         │ & Experimentation   │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ Evaluation &        │
+                         │ Model Validation    │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ API / Application   │
+                         │ Integration         │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ Deployment & Cloud  │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │ Monitoring &        │
+                         │ Continuous Improve. │
+                         └─────────────────────┘
 
 
 I am particularly interested in engineering systems that are:
