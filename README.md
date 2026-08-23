@@ -19,6 +19,7 @@ My focus is turning **data, models, and research ideas into practical AI systems
 ## 🚀 What I Build
 
 - 🤖 **Generative AI & LLM Applications**
+- 🔄 **Agentic Workflows, RAG & MCP Integration**  <!-- NEW: Added here -->
 - 🧠 **Machine Learning & Deep Learning Systems**
 - 🎯 **Recommendation & Ranking Systems**
 - 📊 **Predictive Analytics & Decision Intelligence**
@@ -53,6 +54,21 @@ My focus is turning **data, models, and research ideas into practical AI systems
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/NLP-0F9D58?style=for-the-badge&logoColor=white" alt="Natural Language Processing"/></a>
   <a href="https://huggingface.co/docs/transformers/index"><img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logoColor=black" alt="Transformers"/></a>
 </p>
+
+<!-- ===== NEW SECTION ADDED HERE ===== -->
+### 🔄 Agentic AI, RAG & MCP
+
+<p align="left">
+  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+  <a href="https://langchain-ai.github.io/langgraph/"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/></a>
+  <a href="https://docs.llamaindex.ai/"><img src="https://img.shields.io/badge/LlamaIndex-4B0082?style=for-the-badge&logoColor=white" alt="LlamaIndex"/></a>
+  <a href="https://smith.langchain.com/"><img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP%20Client-005F9E?style=for-the-badge&logoColor=white" alt="MCP Client"/></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP%20Servers-005F9E?style=for-the-badge&logoColor=white" alt="MCP Servers"/></a>
+</p>
+
+> **MCP Stack:** Client SDKs · Filesystem, SQL, GitHub & Google Drive Servers
+<!-- ===== END OF NEW SECTION ===== -->
 
 ### 📊 Data & Analytics
 
@@ -179,9 +195,9 @@ Monitoring, Observability & Continuous Improvement
 
 ## 🔬 Areas of Interest
 
-- **Generative AI** – LLMs, Intelligent Agents, AI Automation, NLP
+- **Generative AI & Agents** – LLMs, RAG (LlamaIndex), Agentic Orchestration (LangChain/LangGraph), MCP, and AI Automation  <!-- UPDATED: Added the new tools here -->
 - **Machine Learning** – Predictive Modeling, Recommendation Systems, Ranking, Classification
-- **ML Engineering** – Model Serving, APIs, Docker, Cloud, MLOps, CI/CD, Observability
+- **ML Engineering** – Model Serving, APIs, Docker, Cloud, MLOps, CI/CD, Observability (LangSmith)  <!-- UPDATED: Mentioned LangSmith explicitly -->
 - **Data** – Data Analysis, Feature Engineering, Statistical Modeling, Decision Intelligence
 
 ---
