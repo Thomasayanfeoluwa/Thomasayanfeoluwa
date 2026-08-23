@@ -307,12 +307,7 @@ Model Serving · APIs · Docker · Cloud Deployment · MLOps · Experiment Track
 
 ---
 
-## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thomasayanfeoluwa&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=github_dark" height="180" alt="Thomas's GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasayanfeoluwa&layout=donut&langs_count=8&hide_border=true&count_private=false&theme=github_dark" height="180" alt="Thomas's Most Used Languages" />
-</p>
 
 ## 🔥 Contribution Streak
 
@@ -322,14 +317,6 @@ Model Serving · APIs · Docker · Cloud Deployment · MLOps · Experiment Track
     width="495"
     alt="Thomas's GitHub Contribution Streak"
   />
-</p>
-
----
-
-### 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomasayanfeoluwa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Thomas's GitHub Contribution Activity" />
 </p>
 
 ---
