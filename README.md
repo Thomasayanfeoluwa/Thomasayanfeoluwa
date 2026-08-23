@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Thomas Idowu**
+# 👋 Hi, I'm **Idowu Thomas**
 
 ### AI/ML Engineer · Applied AI · Machine Learning Systems
 
