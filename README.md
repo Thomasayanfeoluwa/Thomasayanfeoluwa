@@ -39,52 +39,94 @@ My goal is not simply to train models, but to engineer **complete AI systems** �
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  </a>
 </p>
 
 ### 🤖 Machine Learning & AI
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  </a>
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
 </p>
 
 ### 🧠 AI & NLP
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LLMs-5A29E4?style=for-the-badge&logoColor=white" alt="Large Language Models"/>
-  <img src="https://img.shields.io/badge/NLP-0F9D58?style=for-the-badge&logoColor=white" alt="Natural Language Processing"/>
-  <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logoColor=black" alt="Transformers"/>
+  <a href="https://openai.com/">
+    <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  </a>
+  <a href="https://openai.com/">
+    <img src="https://img.shields.io/badge/LLMs-5A29E4?style=for-the-badge&logoColor=white" alt="Large Language Models"/>
+  </a>
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/NLP-0F9D58?style=for-the-badge&logoColor=white" alt="Natural Language Processing"/>
+  </a>
+  <a href="https://huggingface.co/docs/transformers/index">
+    <img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logoColor=black" alt="Transformers"/>
+  </a>
 </p>
 
 ### 📊 Data & Analytics
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
 </p>
 
 ### ⚙️ Engineering & Deployment
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
 </p>
 
 ### ☁️ Cloud & MLOps
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  </a>
+  <a href="https://mlflow.org/">
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  </a>
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  </a>
 </p>
 
 ---
@@ -224,13 +266,11 @@ A machine learning application designed to predict customer churn and support da
 
 | Application | Description | Technology | Demo |
 |---|---|---|---|
-| 🎬 **TrailerTV Recommendation System** | Content-based movie recommendation | ML · NLP | [Launch](https://movies-recommender-system-kxlg.onrender.com/home) |
-| 🍔 **AI Food Ordering System** | AI-assisted food ordering workflow | GenAI · NLP | [Launch](https://dishorder-deliverybot-de2jdgxfjjvy5rkeevgz23.streamlit.app/) |
-| 🩺 **HealthAssistant AI** | Conversational AI health assistant | GenAI · NLP | [Launch](https://careassist-ai-2y6vf6pu5gnvm4fgsz2y5v.streamlit.app/) |
-| 🎯 **Interview Q&A Generator** | AI-powered interview preparation | GenAI · NLP | [Launch](https://interview-question-and-answer-generator-j4mpehzjpa85pqhkmdbvpg.streamlit.app/) |
-| 📊 **Customer Churn Prediction** | Predictive customer intelligence | ML · Data Science | [Launch](https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/) |
-
----
+| 🎬 **TrailerTV Recommendation** | Content-based movie recommendation | ML · NLP | <a href="https://movies-recommender-system-kxlg.onrender.com/home"><img src="https://img.shields.io/badge/_Live_Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/></a> |
+| 🍔 **AI Food Ordering** | AI-assisted food ordering workflow | GenAI · NLP | <a href="https://dishorder-deliverybot-de2jdgxfjjvy5rkeevgz23.streamlit.app/"><img src="https://img.shields.io/badge/_Live_Demo-EA580C?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a> |
+| 🩺 **HealthAssistant AI** | Conversational AI health assistant | GenAI · NLP | <a href="https://careassist-ai-2y6vf6pu5gnvm4fgsz2y5v.streamlit.app/"><img src="https://img.shields.io/badge/_Live_Demo-059669?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a> |
+| 🎯 **Interview Q&A Generator** | AI-powered interview preparation | GenAI · NLP | <a href="https://interview-question-and-answer-generator-j4mpehzjpa85pqhkmdbvpg.streamlit.app/"><img src="https://img.shields.io/badge/_Live_Demo-2563EB?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a> |
+| 📊 **Customer Churn Prediction** | Predictive customer intelligence | ML · Data Science | <a href="https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/"><img src="https://img.shields.io/badge/_Live_Demo-0891B2?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/></a> |
 
 ## 🏗️ Machine Learning Engineering
 
