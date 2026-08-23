@@ -21,14 +21,14 @@ My work focuses on turning **data, models, and research ideas into practical AI 
 
 I design and develop intelligent systems across:
 
-* 🤖 **Generative AI & LLM Applications**
-* 🧠 **Deep Learning & Neural Networks**
-* 📊 **Predictive Analytics & Machine Learning**
-* 🔎 **Natural Language Processing**
-* 🎯 **Recommendation & Ranking Systems**
-* ⚙️ **AI-Powered Automation**
-* ☁️ **ML Deployment & Cloud Engineering**
-* 📈 **Data Science & Decision Intelligence**
+- 🤖 **Generative AI & LLM Applications**
+- 🧠 **Deep Learning & Neural Networks**
+- 📊 **Predictive Analytics & Machine Learning**
+- 🔎 **Natural Language Processing**
+- 🎯 **Recommendation & Ranking Systems**
+- ⚙️ **AI-Powered Automation**
+- ☁️ **ML Deployment & Cloud Engineering**
+- 📈 **Data Science & Decision Intelligence**
 
 My goal is not simply to train models, but to engineer **complete AI systems** — from data preparation and experimentation through evaluation, deployment, and real-world usage.
 
@@ -97,13 +97,13 @@ A content-based movie recommendation platform designed to help users discover re
 
 ### What it demonstrates
 
-* Recommendation system design
-* Natural language processing
-* Feature engineering
-* Similarity-based ranking
-* Data preprocessing
-* Machine learning
-* End-to-end application deployment
+- 🎯 Content-based recommendation
+- 🔎 Natural language processing
+- 🧩 Feature engineering
+- 📐 Similarity-based ranking
+- 🧹 Data preprocessing
+- 🤖 Machine learning
+- 🌐 End-to-end application deployment
 
 **Core Technologies:** Python · Pandas · Scikit-Learn · NLP · Machine Learning
 
@@ -124,12 +124,12 @@ An AI-powered conversational application designed to simplify food ordering and 
 
 ### What it demonstrates
 
-* Conversational AI
-* Generative AI
-* Natural language interaction
-* Intelligent workflow automation
-* Application development
-* Application deployment
+- 💬 Conversational AI
+- 🤖 Generative AI
+- 🗣️ Natural language interaction
+- ⚙️ Intelligent workflow automation
+- 🧠 AI-assisted decision making
+- 🌐 Application deployment
 
 **Core Technologies:** Python · Generative AI · NLP · Streamlit
 
@@ -146,7 +146,16 @@ An AI-powered conversational application designed to simplify food ordering and 
 
 ## 🩺 HealthAssistant AI
 
-An AI-powered assistant application designed to provide an intelligent conversational interface for health-related information and assistance.
+An AI-powered health assistance application designed to provide users with an intelligent conversational interface for health-related information and guidance.
+
+### What it demonstrates
+
+- 🤖 Generative AI application development
+- 💬 Conversational interaction
+- 🧠 Natural language processing
+- 📝 Prompt-driven AI workflows
+- 🖥️ Interactive application design
+- 🌐 Cloud application deployment
 
 **Core Technologies:** Python · Generative AI · NLP · Streamlit
 
@@ -163,7 +172,17 @@ An AI-powered assistant application designed to provide an intelligent conversat
 
 ## 🎯 Interview Question & Answer Generator
 
-An AI-powered application designed to generate interview questions and answers to support structured interview preparation.
+An AI-powered application designed to generate interview questions and structured answers to support interview preparation.
+
+### What it demonstrates
+
+- 🤖 Generative AI
+- 📝 Automated content generation
+- 🧠 Natural language processing
+- 🎯 Prompt engineering
+- 🔄 Dynamic question generation
+- 🖥️ Interactive AI application development
+- 🌐 Cloud deployment
 
 **Core Technologies:** Python · Generative AI · NLP · Streamlit
 
@@ -180,9 +199,20 @@ An AI-powered application designed to generate interview questions and answers t
 
 ## 📊 Customer Churn Prediction System
 
-A machine learning application focused on predicting customer churn and supporting data-driven customer retention decisions.
+A machine learning application designed to predict customer churn and support data-driven customer retention decisions.
 
-**Core Technologies:** Python · Scikit-Learn · Pandas · Machine Learning · Streamlit
+### What it demonstrates
+
+- 📊 Exploratory data analysis
+- 🧹 Data preprocessing
+- 🧩 Feature engineering
+- 🤖 Predictive machine learning
+- 🎯 Classification modeling
+- 📈 Model evaluation
+- 💡 Data-driven customer intelligence
+- 🌐 Interactive model deployment
+
+**Core Technologies:** Python · Pandas · Scikit-Learn · Machine Learning · Streamlit
 
 <p>
   <a href="https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/">
@@ -197,13 +227,13 @@ A machine learning application focused on predicting customer churn and supporti
 
 # 🔗 Live AI Applications
 
-| Application                            | Description                      | Technology        | Demo                                                                                            |
-| -------------------------------------- | -------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------- |
-| 🎬 **TrailerTV Recommendation System** | Intelligent movie recommendation | ML · NLP          | [Launch](https://movies-recommender-system-kxlg.onrender.com/home)                              |
-| 🍔 **AI Food Ordering System**         | AI-assisted ordering & delivery  | GenAI · NLP       | [Launch](https://dishorder-deliverybot-de2jdgxfjjvy5rkeevgz23.streamlit.app/)                   |
-| 🩺 **HealthAssistant AI**              | AI-powered health assistance     | GenAI · NLP       | [Launch](https://careassist-ai-2y6vf6pu5gnvm4fgsz2y5v.streamlit.app/)                           |
-| 🎯 **Interview Q&A Generator**         | AI-powered interview preparation | GenAI · NLP       | [Launch](https://interview-question-and-answer-generator-j4mpehzjpa85pqhkmdbvpg.streamlit.app/) |
-| 📊 **Customer Churn Prediction**       | Predictive customer intelligence | ML · Data Science | [Launch](https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/)                       |
+| Application | Description | Technology | Demo |
+|---|---|---|---|
+| 🎬 **TrailerTV Recommendation System** | Content-based movie recommendation | ML · NLP | [Launch](https://movies-recommender-system-kxlg.onrender.com/home) |
+| 🍔 **AI Food Ordering System** | AI-assisted food ordering workflow | GenAI · NLP | [Launch](https://dishorder-deliverybot-de2jdgxfjjvy5rkeevgz23.streamlit.app/) |
+| 🩺 **HealthAssistant AI** | Conversational AI health assistant | GenAI · NLP | [Launch](https://careassist-ai-2y6vf6pu5gnvm4fgsz2y5v.streamlit.app/) |
+| 🎯 **Interview Q&A Generator** | AI-powered interview preparation | GenAI · NLP | [Launch](https://interview-question-and-answer-generator-j4mpehzjpa85pqhkmdbvpg.streamlit.app/) |
+| 📊 **Customer Churn Prediction** | Predictive customer intelligence | ML · Data Science | [Launch](https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/) |
 
 ---
 
@@ -250,104 +280,61 @@ I approach ML projects as **systems, not isolated notebooks**.
                          │ Monitoring &        │
                          │ Continuous Improve. │
                          └─────────────────────┘
-```
 
-I am particularly interested in building systems that are:
+I am particularly interested in engineering systems that are:
 
-* **Reproducible**
-* **Testable**
-* **Deployable**
-* **Scalable**
-* **Observable**
-* **Maintainable**
-
----
-
-# 🔬 Areas of Interest
-
-### Artificial Intelligence
+♻️ Reproducible
+🧪 Testable
+🚀 Deployable
+📈 Scalable
+👁️ Observable
+🔧 Maintainable
+🔬 Areas of Interest
+Artificial Intelligence
 
 Generative AI · Large Language Models · NLP · Intelligent Agents · AI Automation
 
-### Machine Learning
+Machine Learning
 
 Predictive Modeling · Recommendation Systems · Classification · Regression · Feature Engineering
 
-### Deep Learning
+Deep Learning
 
 Neural Networks · Representation Learning · Transfer Learning · Model Optimization
 
-### Data
+Data
 
 Data Analysis · Data Preparation · Statistical Modeling · Decision Intelligence
 
-### ML Engineering
+ML Engineering
 
 Model Serving · APIs · Docker · Cloud Deployment · MLOps · Experiment Tracking
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img src="./assets/github-stats.svg" height="185" alt="Thomas's GitHub Statistics"/>
-  <img src="./assets/top-langs.svg" height="185" alt="Thomas's Most Used Languages"/>
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thomasayanfeoluwa&theme=transparent&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="495" alt="Thomas's GitHub Contribution Streak"/>
-</p>
-
----
-
-# ◉ Contribution Activity
-
-<p align="center">
-  <img src="./assets/contribution-activity.svg" width="820" alt="Thomas's GitHub Contribution Activity"/>
-</p>
-
----
-
-# 🤝 Open to Collaboration
+📈 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thomasayanfeoluwa&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=github_dark" height="180" alt="Thomas's GitHub Statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasayanfeoluwa&layout=donut&langs_count=8&hide_border=true&count_private=false&theme=github_dark" height="180" alt="Thomas's Most Used Languages" /> </p>
+🔥 Contribution Streak
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="495" alt="Thomas's GitHub Contribution Streak" /> </p>
+📊 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomasayanfeoluwa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Thomas's GitHub Contribution Activity" /> </p>
+🤝 Open to Collaboration
 
 I am interested in collaborating on:
 
-* 🔬 Applied AI & ML research
-* 🤖 Generative AI applications
-* 🧠 Machine learning systems
-* 🌐 Production AI platforms
-* ⚙️ Intelligent automation
-* 📊 Data-driven products
-* 🌍 Open-source AI/ML projects
-* 🚀 Technology solving meaningful real-world problems
+🔬 Applied AI & ML research
+🤖 Generative AI applications
+🧠 Machine learning systems
+🌐 Production AI platforms
+⚙️ Intelligent automation
+📊 Data-driven products
+🌍 Open-source AI/ML projects
+🚀 Technology solving meaningful real-world problems
+💡 Engineering Philosophy
 
----
+Great AI should do more than automate tasks — it should augment human intelligence, improve decision-making, and create meaningful real-world impact.
 
-# 💡 Engineering Philosophy
+📫 Let's Connect
 
-> **Great AI should do more than automate tasks — it should augment human intelligence, improve decision-making, and create meaningful real-world impact.**
+I'm always interested in discussing AI/ML engineering, applied research, intelligent systems, data, and ambitious technology projects.
 
----
-
-# 📫 Let's Connect
-
-I'm always interested in discussing **AI/ML engineering, applied research, intelligent systems, data, and ambitious technology projects.**
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/idowu-thomas-56819433b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="mailto:ayanfeoluwadegoke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building intelligent systems. Solving meaningful problems. Engineering for impact.</i>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/idowu-thomas-56819433b"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/> </a> <a href="mailto:ayanfeoluwadegoke@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by Email"/> </a> </p>
+<p align="center"> <i>Building intelligent systems. Solving meaningful problems. Engineering for impact.</i> </p> ```
