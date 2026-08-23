@@ -34,7 +34,7 @@ My goal is not simply to train models, but to engineer **complete AI systems** �
 
 ---
 
-# 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 ### 💻 Languages
 
@@ -89,21 +89,20 @@ My goal is not simply to train models, but to engineer **complete AI systems** �
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
-## 🎬 TrailerTV — Intelligent Movie Recommendation System
+### 🎬 TrailerTV — Intelligent Movie Recommendation System
 
 A content-based movie recommendation platform designed to help users discover relevant movies using movie metadata and content similarity.
 
-### What it demonstrates
-
-- 🎯 Content-based recommendation
-- 🔎 Natural language processing
-- 🧩 Feature engineering
-- 📐 Similarity-based ranking
-- 🧹 Data preprocessing
-- 🤖 Machine learning
-- 🌐 End-to-end application deployment
+**What it demonstrates**  
+- 🎯 Content-based recommendation  
+- 🔎 Natural language processing  
+- 🧩 Feature engineering  
+- 📐 Similarity-based ranking  
+- 🧹 Data preprocessing  
+- 🤖 Machine learning  
+- 🌐 End-to-end application deployment  
 
 **Core Technologies:** Python · Pandas · Scikit-Learn · NLP · Machine Learning
 
@@ -118,18 +117,17 @@ A content-based movie recommendation platform designed to help users discover re
 
 ---
 
-## 🍔 AI Food Ordering & Delivery Assistant
+### 🍔 AI Food Ordering & Delivery Assistant
 
 An AI-powered conversational application designed to simplify food ordering and support an intelligent ordering workflow.
 
-### What it demonstrates
-
-- 💬 Conversational AI
-- 🤖 Generative AI
-- 🗣️ Natural language interaction
-- ⚙️ Intelligent workflow automation
-- 🧠 AI-assisted decision making
-- 🌐 Application deployment
+**What it demonstrates**  
+- 💬 Conversational AI  
+- 🤖 Generative AI  
+- 🗣️ Natural language interaction  
+- ⚙️ Intelligent workflow automation  
+- 🧠 AI-assisted decision making  
+- 🌐 Application deployment  
 
 **Core Technologies:** Python · Generative AI · NLP · Streamlit
 
@@ -144,18 +142,17 @@ An AI-powered conversational application designed to simplify food ordering and 
 
 ---
 
-## 🩺 HealthAssistant AI
+### 🩺 HealthAssistant AI
 
 An AI-powered health assistance application designed to provide users with an intelligent conversational interface for health-related information and guidance.
 
-### What it demonstrates
-
-- 🤖 Generative AI application development
-- 💬 Conversational interaction
-- 🧠 Natural language processing
-- 📝 Prompt-driven AI workflows
-- 🖥️ Interactive application design
-- 🌐 Cloud application deployment
+**What it demonstrates**  
+- 🤖 Generative AI application development  
+- 💬 Conversational interaction  
+- 🧠 Natural language processing  
+- 📝 Prompt-driven AI workflows  
+- 🖥️ Interactive application design  
+- 🌐 Cloud application deployment  
 
 **Core Technologies:** Python · Generative AI · NLP · Streamlit
 
@@ -170,19 +167,18 @@ An AI-powered health assistance application designed to provide users with an in
 
 ---
 
-## 🎯 Interview Question & Answer Generator
+### 🎯 Interview Question & Answer Generator
 
 An AI-powered application designed to generate interview questions and structured answers to support interview preparation.
 
-### What it demonstrates
-
-- 🤖 Generative AI
-- 📝 Automated content generation
-- 🧠 Natural language processing
-- 🎯 Prompt engineering
-- 🔄 Dynamic question generation
-- 🖥️ Interactive AI application development
-- 🌐 Cloud deployment
+**What it demonstrates**  
+- 🤖 Generative AI  
+- 📝 Automated content generation  
+- 🧠 Natural language processing  
+- 🎯 Prompt engineering  
+- 🔄 Dynamic question generation  
+- 🖥️ Interactive AI application development  
+- 🌐 Cloud deployment  
 
 **Core Technologies:** Python · Generative AI · NLP · Streamlit
 
@@ -197,20 +193,19 @@ An AI-powered application designed to generate interview questions and structure
 
 ---
 
-## 📊 Customer Churn Prediction System
+### 📊 Customer Churn Prediction System
 
 A machine learning application designed to predict customer churn and support data-driven customer retention decisions.
 
-### What it demonstrates
-
-- 📊 Exploratory data analysis
-- 🧹 Data preprocessing
-- 🧩 Feature engineering
-- 🤖 Predictive machine learning
-- 🎯 Classification modeling
-- 📈 Model evaluation
-- 💡 Data-driven customer intelligence
-- 🌐 Interactive model deployment
+**What it demonstrates**  
+- 📊 Exploratory data analysis  
+- 🧹 Data preprocessing  
+- 🧩 Feature engineering  
+- 🤖 Predictive machine learning  
+- 🎯 Classification modeling  
+- 📈 Model evaluation  
+- 💡 Data-driven customer intelligence  
+- 🌐 Interactive model deployment  
 
 **Core Technologies:** Python · Pandas · Scikit-Learn · Machine Learning · Streamlit
 
@@ -225,7 +220,7 @@ A machine learning application designed to predict customer churn and support da
 
 ---
 
-# 🔗 Live AI Applications
+## 🔗 Live AI Applications
 
 | Application | Description | Technology | Demo |
 |---|---|---|---|
@@ -237,104 +232,134 @@ A machine learning application designed to predict customer churn and support da
 
 ---
 
-# 🏗️ Machine Learning Engineering
+## 🏗️ Machine Learning Engineering
 
 I approach ML projects as **systems, not isolated notebooks**.
+┌─────────────────────┐
+│ Raw Data │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Data Processing & │
+│ Feature Engineering │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Model Development │
+│ & Experimentation │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Evaluation & │
+│ Model Validation │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ API / Application │
+│ Integration │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Deployment & Cloud │
+└──────────┬──────────┘
+│
+▼
+┌─────────────────────┐
+│ Monitoring & │
+│ Continuous Improve. │
+└─────────────────────┘
 
-```text
-                         ┌─────────────────────┐
-                         │       Raw Data      │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Data Processing &   │
-                         │ Feature Engineering │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Model Development   │
-                         │ & Experimentation   │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Evaluation &        │
-                         │ Model Validation    │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ API / Application   │
-                         │ Integration         │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Deployment & Cloud  │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │ Monitoring &        │
-                         │ Continuous Improve. │
-                         └─────────────────────┘
 
 I am particularly interested in engineering systems that are:
 
-♻️ Reproducible
-🧪 Testable
-🚀 Deployable
-📈 Scalable
-👁️ Observable
-🔧 Maintainable
-🔬 Areas of Interest
-Artificial Intelligence
+- ♻️ Reproducible
+- 🧪 Testable
+- 🚀 Deployable
+- 📈 Scalable
+- 👁️ Observable
+- 🔧 Maintainable
 
+---
+
+## 🔬 Areas of Interest
+
+### Artificial Intelligence  
 Generative AI · Large Language Models · NLP · Intelligent Agents · AI Automation
 
-Machine Learning
-
+### Machine Learning  
 Predictive Modeling · Recommendation Systems · Classification · Regression · Feature Engineering
 
-Deep Learning
-
+### Deep Learning  
 Neural Networks · Representation Learning · Transfer Learning · Model Optimization
 
-Data
-
+### Data  
 Data Analysis · Data Preparation · Statistical Modeling · Decision Intelligence
 
-ML Engineering
-
+### ML Engineering  
 Model Serving · APIs · Docker · Cloud Deployment · MLOps · Experiment Tracking
 
-📈 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Thomasayanfeoluwa&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=github_dark" height="180" alt="Thomas's GitHub Statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasayanfeoluwa&layout=donut&langs_count=8&hide_border=true&count_private=false&theme=github_dark" height="180" alt="Thomas's Most Used Languages" /> </p>
-🔥 Contribution Streak
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="495" alt="Thomas's GitHub Contribution Streak" /> </p>
-📊 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomasayanfeoluwa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Thomas's GitHub Contribution Activity" /> </p>
-🤝 Open to Collaboration
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thomasayanfeoluwa&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=github_dark" height="180" alt="Thomas's GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasayanfeoluwa&layout=donut&langs_count=8&hide_border=true&count_private=false&theme=github_dark" height="180" alt="Thomas's Most Used Languages" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="495" alt="Thomas's GitHub Contribution Streak" />
+</p>
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomasayanfeoluwa&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Thomas's GitHub Contribution Activity" />
+</p>
+
+---
+
+## 🤝 Open to Collaboration
 
 I am interested in collaborating on:
 
-🔬 Applied AI & ML research
-🤖 Generative AI applications
-🧠 Machine learning systems
-🌐 Production AI platforms
-⚙️ Intelligent automation
-📊 Data-driven products
-🌍 Open-source AI/ML projects
-🚀 Technology solving meaningful real-world problems
-💡 Engineering Philosophy
+- 🔬 Applied AI & ML research
+- 🤖 Generative AI applications
+- 🧠 Machine learning systems
+- 🌐 Production AI platforms
+- ⚙️ Intelligent automation
+- 📊 Data-driven products
+- 🌍 Open-source AI/ML projects
+- 🚀 Technology solving meaningful real-world problems
+
+---
+
+## 💡 Engineering Philosophy
 
 Great AI should do more than automate tasks — it should augment human intelligence, improve decision-making, and create meaningful real-world impact.
 
-📫 Let's Connect
+---
+
+## 📫 Let's Connect
 
 I'm always interested in discussing AI/ML engineering, applied research, intelligent systems, data, and ambitious technology projects.
 
-<p align="left"> <a href="https://www.linkedin.com/in/idowu-thomas-56819433b"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/> </a> <a href="mailto:ayanfeoluwadegoke@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by Email"/> </a> </p>
-<p align="center"> <i>Building intelligent systems. Solving meaningful problems. Engineering for impact.</i> </p> ```
+<p align="left">
+  <a href="https://www.linkedin.com/in/idowu-thomas-56819433b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:ayanfeoluwadegoke@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building intelligent systems. Solving meaningful problems. Engineering for impact.</i>
+</p>
