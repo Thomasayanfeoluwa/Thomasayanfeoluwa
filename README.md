@@ -318,7 +318,8 @@ Model Serving · APIs · Docker · Cloud Deployment · MLOps · Experiment Track
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Thomasayanfeoluwa&theme=dark&hide_border=true&border_radius=12&card_width=495&card_height=195&ring=58A6FF&fire=FFB86C&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC"
+    width="495"
     alt="Thomas's GitHub Contribution Streak"
   />
 </p>
