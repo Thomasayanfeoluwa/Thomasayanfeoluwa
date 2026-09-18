@@ -119,7 +119,7 @@ A content-based movie recommendation platform built to help users discover relev
 **Core Technologies:** Python · Pandas · Scikit-Learn · NLP
 
 <p>
-  <a href="https://movies-recommender-system-kxlg.onrender.com/home">
+  <a href="https://movie-recommender-mu4e.onrender.com/home">
     <img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/Thomasayanfeoluwa/Movie-Cotent-Based-Recommender-System">
@@ -143,7 +143,7 @@ A conversational AI application designed to simplify food ordering through intel
 **Core Technologies:** Python · Generative AI · NLP · Streamlit
 
 <p>
-  <a href="https://dishorder-deliverybot-de2jdgxfjjvy5rkeevgz23.streamlit.app/">
+  <a href="https://ai-food-ordering-system-4vrtvnnsremae9mmqyvpuu.streamlit.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-EA580C?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
   </a>
   <a href="https://github.com/Thomasayanfeoluwa/AI-Food-Ordering-System">
