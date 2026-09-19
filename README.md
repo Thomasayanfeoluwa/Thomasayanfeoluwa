@@ -127,31 +127,6 @@ A content-based movie recommendation platform built to help users discover relev
   </a>
 </p>
 
----
-
-### 🍔 AI Food Ordering & Delivery Assistant
-
-A conversational AI application designed to simplify food ordering through intelligent workflow automation.
-
-**What it demonstrates**
-
-- 💬 Conversational AI & natural language interaction
-- 🧠 AI-assisted decision making and prompt-driven workflows
-- ⚙️ **End-to-end CI/CD, model monitoring, and observability for production**
-- 🌐 Scalable cloud deployment with logging
-
-**Core Technologies:** Python · Generative AI · NLP · Streamlit
-
-<p>
-  <a href="https://ai-food-ordering-system-4vrtvnnsremae9mmqyvpuu.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-EA580C?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
-  </a>
-  <a href="https://github.com/Thomasayanfeoluwa/AI-Food-Ordering-System">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-</p>
-
----
 
 ### 📊 Customer Churn Prediction System
 
