@@ -12,6 +12,9 @@ My focus is turning **data, models, and research ideas into practical AI systems
   <a href="mailto:ayanfeoluwadegoke@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://youtube.com/@thomasadegokeai?si=v5lJFn_8veyJFl7I">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
 
 ---
@@ -19,8 +22,9 @@ My focus is turning **data, models, and research ideas into practical AI systems
 ## 🚀 What I Build
 
 - 🤖 **Generative AI & LLM Applications**
-- 🔄 **Agentic Workflows, RAG & MCP Integration**  <!-- NEW: Added here -->
+- 🔄 **Agentic Workflows, RAG & MCP Integration**
 - 🧠 **Machine Learning & Deep Learning Systems**
+- 📈 **Time Series & Anomaly Detection**
 - 🎯 **Recommendation & Ranking Systems**
 - 📊 **Predictive Analytics & Decision Intelligence**
 - 🔎 **NLP & Intelligent Automation**
@@ -35,6 +39,7 @@ My focus is turning **data, models, and research ideas into practical AI systems
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
 </p>
 
 ### 🤖 Machine Learning & AI
@@ -55,7 +60,6 @@ My focus is turning **data, models, and research ideas into practical AI systems
   <a href="https://huggingface.co/docs/transformers/index"><img src="https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logoColor=black" alt="Transformers"/></a>
 </p>
 
-<!-- ===== NEW SECTION ADDED HERE ===== -->
 ### 🔄 Agentic AI, RAG & MCP
 
 <p align="left">
@@ -73,13 +77,13 @@ My focus is turning **data, models, and research ideas into practical AI systems
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"/>
 </p>
-<!-- ===== END OF NEW SECTION ===== -->
 
 ### 📊 Data & Analytics
 
 <p align="left">
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="https://arrow.apache.org/"><img src="https://img.shields.io/badge/PyArrow-4B0082?style=for-the-badge&logo=apache&logoColor=white" alt="PyArrow"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
 
@@ -88,15 +92,25 @@ My focus is turning **data, models, and research ideas into practical AI systems
 <p align="left">
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+  <a href="https://www.uvicorn.org/"><img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logoColor=white" alt="Uvicorn"/></a>
   <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+</p>
+
+### 🎨 Frontend & Visualization
+
+<p align="left">
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
 </p>
 
 ### ☁️ Cloud & MLOps
 
 <p align="left">
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
+  <a href="https://render.com/"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/></a>
   <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
 </p>
@@ -104,6 +118,32 @@ My focus is turning **data, models, and research ideas into practical AI systems
 ---
 
 ## ⭐ Featured Projects
+
+### 🏭 SWaT Industrial Anomaly Detection
+
+A semi-supervised anomaly detector for the SWaT water-treatment benchmark, deployed as a real-time historical-replay monitoring interface.
+
+**What it demonstrates**
+
+- 🧠 **Semi-supervised anomaly detection** — TCN autoencoder trained on normal-only data; labels never reach training, threshold, or inference
+- 🧪 **Reproducibility-first engineering** — 7-test audit with score parity at 5.215 × 10⁻⁸ across 181,031 sequences and zero alert-flag disagreements
+- 🎯 **Event-level evaluation** — 28/36 labelled attack scenarios detected; 2,528 false positives clustered into 73 alert periods
+- 🌐 **Full-stack delivery** — FastAPI + PyTorch backend, React + TypeScript frontend, hand-rolled SVG charts, live replay at 50× speed
+
+**Core Technologies:** Python · PyTorch · FastAPI · React · TypeScript · Vite · Pandas · Scikit-Learn
+
+<p>
+  <a href="https://swat-anomaly-monitor-system.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://youtu.be/KsfToradzcA">
+    <img src="https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo"/>
+  </a>
+  <a href="https://github.com/Thomasayanfeoluwa/multivariate-telemetry-anomaly-detection">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+
 
 ### 🎬 TrailerTV — Intelligent Movie Recommendation System
 
@@ -175,9 +215,9 @@ Monitoring, Observability & Continuous Improvement
 
 ## 🔬 Areas of Interest
 
-- **Generative AI & Agents** – LLMs, RAG (LlamaIndex), Agentic Orchestration (LangChain/LangGraph), MCP, and AI Automation  <!-- UPDATED: Added the new tools here -->
-- **Machine Learning** – Predictive Modeling, Recommendation Systems, Ranking, Classification, Anomaly Detection, Computer Vision, Time Series Forecasting, Clustering, and Dimensionality Reduction
-- **ML Engineering** – Model Serving, APIs, Docker, Cloud, MLOps, CI/CD, Observability (LangSmith)  <!-- UPDATED: Mentioned LangSmith explicitly -->
+- **Generative AI & Agents** – LLMs, RAG (LlamaIndex), Agentic Orchestration (LangChain/LangGraph), MCP, and AI Automation
+- **Machine Learning** – Predictive Modeling, Recommendation Systems, Ranking, Classification, Anomaly Detection, Semi-Supervised Learning, Computer Vision, Time Series Forecasting, Clustering, and Dimensionality Reduction
+- **ML Engineering** – Model Serving, APIs, Docker, Cloud, MLOps, CI/CD, Observability (LangSmith)
 - **Data** – Data Analysis, Feature Engineering, Statistical Modeling, Decision Intelligence
 
 ---
@@ -200,6 +240,9 @@ I'm always open to discussing AI/ML engineering, applied research, and ambitious
   </a>
   <a href="mailto:ayanfeoluwadegoke@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://youtube.com/@thomasadegokeai?si=v5lJFn_8veyJFl7I">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
