@@ -159,7 +159,7 @@ A full-stack movie discovery application that recommends related films using con
 An interactive machine learning application that estimates bank customer churn risk from customer profile attributes and presents predictions through a Streamlit interface.
 
 <p>
-  <a href="https://churns-prediction-xsqeccw2idowgdhcg3aj7.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=streamlit&logoColor=white" alt="Customer churn live demo" /></a>
+  <a href="https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=streamlit&logoColor=white" alt="Customer churn live demo" /></a>
   <a href="https://github.com/Thomasayanfeoluwa/Customer-Churn-Prediction-System"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Customer churn source code" /></a>
 </p>
 
