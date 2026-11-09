@@ -136,6 +136,28 @@ An end-to-end anomaly-detection study using multivariate telemetry from the Secu
 
 > **Scope and limitation:** The app replays historical testbed measurements. It is a research and monitoring prototype, not a live-plant control system. An alert is a signal for investigation, not proof of a cyberattack, equipment failure, or unsafe process condition.
 
+### 📊 FlyRank ML Internship — Content Opportunity Scoring
+
+A client-held-out screening queue that ranks content pages by likelihood of impression decay so editors can prioritise review. Built as the Machine Learning track capstone for the FlyRank ML Internship (October 2026).
+
+<p>
+  <a href="https://thomasayanfeoluwa.github.io/flyrank-internship/"><img src="https://img.shields.io/badge/Project_Paper-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="FlyRank internship project paper" /></a>
+  <a href="https://github.com/Thomasayanfeoluwa/flyrank-internship"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="FlyRank internship source code" /></a>
+</p>
+
+**What it demonstrates**
+
+- **Client-grouped evaluation:** five-fold cross-validation that holds out entire clients so every page is scored by a model that never saw its client.
+- **Comparative modelling:** hand-written baseline rule, Logistic Regression, and HistGradientBoostingClassifier evaluated on the same 21,758-page review population (30 clients).
+- **Measured ranking lift:** Logistic Regression top-500 precision of 0.794 against a 51.4% base rate (lift 1.55×, 95% interval 1.22–1.87) on unseen clients.
+- **Transparent decision support:** per-page reason codes, confidence labels, and a protect check; the queue is framed as observed, directional screening support rather than a forecast.
+- **Leakage and sensitivity analysis:** explicit checks for label-window overlap, population-rule effects, and random-split optimism.
+
+**Core technologies:** Python · Scikit-learn · Pandas · NumPy · Logistic Regression · Gradient Boosting
+
+> **Scope and limitation:** The work uses a single anonymised snapshot. Most measured skill comes from 90-day activity features that overlap the label window, so the results do not show that a model can anticipate future decay. The queue is decision support for human review, not an automated action system and not evidence that refreshing a page recovers impressions.
+
+
 ### 🎬 TrailerTV — Movie Recommendation System
 
 A full-stack movie discovery application that recommends related films using content similarity and provides review sentiment analysis and trailer access.
@@ -153,24 +175,6 @@ A full-stack movie discovery application that recommends related films using con
 - **Application engineering:** Flask backend, PostgreSQL persistence, SQLAlchemy, TMDB API integration, and a deployed web interface.
 
 **Core technologies:** Python · Flask · Pandas · Scikit-learn · FAISS · PostgreSQL · SQLAlchemy · TMDB API
-
-### 📊 Customer Churn Prediction System
-
-An interactive machine learning application that estimates bank customer churn risk from customer profile attributes and presents predictions through a Streamlit interface.
-
-<p>
-  <a href="https://churns-prediction-xsqeccw2idowgdhcg3ajg4.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=for-the-badge&logo=streamlit&logoColor=white" alt="Customer churn live demo" /></a>
-  <a href="https://github.com/Thomasayanfeoluwa/Customer-Churn-Prediction-System"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Customer churn source code" /></a>
-</p>
-
-**What it demonstrates**
-
-- **Input preparation:** numerical feature handling, categorical encoding, and feature scaling.
-- **Model inference:** TensorFlow/Keras prediction using a trained classification model and saved preprocessing artifacts.
-- **Risk estimation:** interactive customer inputs and probability-based churn predictions.
-- **Application delivery:** a hosted Streamlit interface for exploring model predictions.
-
-**Core technologies:** Python · TensorFlow · Keras · Pandas · NumPy · Scikit-learn · Joblib · Streamlit
 
 ---
 
